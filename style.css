@@ -1,0 +1,24 @@
+
+body{
+    background-image: url("./network-connection-background-abstract-style_23-2148875738.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: white;
+    font-size: larger;
+}
+div{
+    border: 2px solid white;
+    padding:20px;
+    margin-right: 600px;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+#submit{
+    margin-left: 40%;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    border-color:transparent;
+}
